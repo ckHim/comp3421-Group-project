@@ -26,10 +26,10 @@ Folder Structure
 
 /assets
     /css
-    - [CSS files]
+- [CSS files]
   /js
-    - [JS files]
-   - fullcalendar.min.css
+- [JS files]
+- fullcalendar.min.css
 /config.php           # Database connection and configuration
 /index.php            # User login page
 /register.php         # User registration page
