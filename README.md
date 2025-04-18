@@ -25,7 +25,7 @@ FullCalendar: JavaScript library for displaying and managing calendar events.
 Folder Structure
 
 /assets
-  /css
+    /css
     - [CSS files]
   /js
     - [JS files]
