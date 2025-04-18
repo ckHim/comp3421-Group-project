@@ -23,17 +23,13 @@ Bootstrap: Front-end framework for responsive design.
 FullCalendar: JavaScript library for displaying and managing calendar events.
 
 Folder Structure
-stylus
 
 /assets
   /css
-    - bootstrap.min.css
-    - fullcalendar.min.css
-    - [other CSS files]
+    - [CSS files]
   /js
-    - bootstrap.min.js
-    - fullcalendar.min.js
-    - [other JS files]
+    - [JS files]
+   - fullcalendar.min.css
 /config.php           # Database connection and configuration
 /index.php            # User login page
 /register.php         # User registration page
